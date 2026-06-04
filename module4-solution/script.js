@@ -42,7 +42,6 @@ WARNING!!! WARNING!!!
 // using either the helloSpeaker's or byeSpeaker's 'speak' method.
 // See Lecture 50, part 1
   for (var name in names) {
-    console.log(names[name]);
 
   // STEP 11:
   // Retrieve the first letter of the current name in the loop.
